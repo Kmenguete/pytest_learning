@@ -1,5 +1,5 @@
-from calculate.view import View
-from calculate.operators import Operators
+from pytest_learning.calculate.operators import Operators
+from pytest_learning.calculate.view import View
 
 
 class Controller:
